@@ -10,10 +10,10 @@
 
 * Flex-box
 
-## Projeto online: https://html-portfolio-aluraone-xoxi-kpbfcpfhg-felipegbprs-projects.vercel.app/
-
 ## Feito por:
 
 ### Felipe Borges
 
 ### Linkedin: https://www.linkedin.com/in/felipe-gsb/
+
+### Projeto online: https://html-portfolio-aluraone-xoxi-kpbfcpfhg-felipegbprs-projects.vercel.app/
